@@ -1,4 +1,7 @@
-# conversor
+# Conversor
+```
+Primeiro projeto simples, convertendo moeda USD para BRL utilizando Vue.js
+```
 
 ## Project setup
 ```
