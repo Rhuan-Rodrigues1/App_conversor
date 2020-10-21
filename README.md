@@ -2,8 +2,12 @@
 ```
 Primeiro projeto simples, convertendo moeda USD para BRL utilizando Vue.js
 ```
+## Oque eu aprendi ?
+```
+Aprendi ha como usar componentes corretamente alem de como usar APIs.
+```
 
-## Project setup
+### Project setup
 ```
 yarn install
 ```
